@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hellwalkerr
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning HTML5
+- 👋 Hi, I’m Mert Türker
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
